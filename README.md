@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as freelancer.
 
-- 🌱 I’m currently learning Flutter, Djnago
+- 🌱 I’m currently learning Flutter, Django
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles
 
